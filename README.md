@@ -5,17 +5,10 @@
 
 ---
 
-  <summary>GitHub Statistics</summary> 
+### GitHub Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=codesowen&count_private=true&show_icons=true&theme=gotham" />
-</details>
 
----
 
-<!-- 
-[![NAME_HERE](https://img.shields.io/badge/NAME_HERE-COLOR_HERE?style=for-the-badge&logo=NAME_HERE&logoColor=white)]()
--->
-
-<!-- Ignore the indentation -->
 
 ## Credits
 Everyone who has guided me, given me the tools and support to become who I am.
