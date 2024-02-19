@@ -1,5 +1,4 @@
 # Hi, I'm Owen 👋
-### I'm a 16 year old student, freelance programmer and an aspiring developer.
 
 **I'm experienced in** Python, Lua, HTML and CSS, and am currently learning other popular languages now.
 
